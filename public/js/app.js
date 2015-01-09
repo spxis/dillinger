@@ -12,7 +12,7 @@
   angular = require('exports?angular!angular');
 
   // Angular Bootstrap UI
-  require('angular-bootstrap');
+  require('angular-bootstrap-temporary');
 
   // Base
   require('./base/base.controller');
